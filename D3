@@ -1,0 +1,146 @@
+Final Assessment-Alternative Assessment
+Semester	202520	Division	CIS
+Assessment title in Syllabus 	Final_Project_Portfolio	Program	Bachelor of Information Technology/ Bachelor of Information Systems
+
+			
+Course Code	CDS 2413
+Course Title	INTRODUCTION TO DATA SCIENCE
+Course Instructor		CRN	
+Assessment 	Project Deliverable 3 – Data Versioning Report 	Submission Date 	Week 15
+	
+
+Student HCT ID(s):  	H00541656	H00533920	H00601937	
+Student Name(s):    	Huda       Manal     Alwed			
+Student Signature				
+
+
+Instructions
+
+
+Data Versioning(10 Points)
+This CLO assesses the group’s ability to use version control to manage, synchronise, and update project files collaboratively using GitHub.
+
+
+
+
+
+
+
+1. Creating a Repository (1 Point)
+
+ 
+
+
+Out in the open, a fresh GitHub spot called Group7 now holds every file tied to the project. Holding everything together, it gives the team a single location for documents while tracking changes as work moves forward.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Uploading Project Files (1 Point)
+
+ 
+
+
+
+
+Files for the project now live on GitHub - reports, notebooks, everything needed sits together. With these in place, teammates reach what they need without hunting through scattered folders. Organization sticks when materials stay in one predictable spot.
+
+
+3. Local Repository Setup (2 Points)
+
+
+ 
+
+ 
+
+A folder appeared on the computer, pulled down by GitHub Desktop. Working without internet became possible since edits stayed saved nearby. Changes moved smoothly between people because each person kept a full copy close at hand.
+
+
+
+
+4. Cloning the Repository (2 Points)
+The GitHub repository is cloned locally to allow collaborative development and file versioning.
+
+
+ 
+
+A fresh version landed on the machine after grabbing it straight from GitHub by pasting the web link. That local setup opened doors - teammates started adjusting code, swapping notes, pulling updates without roadblocks. 
+
+
+5. Synchronising Changes (2 Points)
+Updates from the remote GitHub repository are retrieved to ensure the local repository remains up to date.
+
+ 
+
+
+Now pulling from the source, the team grabbed fresh updates through GitHub Desktop's fetch option. Staying current means their local copy matches what's live out there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Committing and Updating the Repository (2 Points)
+
+ 
+
+
+Out of nowhere, someone tweaked the README file before pushing it to the repo. Each change got recorded, just like version tracking is supposed to work. Updates appear in order - no mess, no guesswork.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence for Assessment
+The following may be used to support evaluation:
+•	GitHub repository link
+•	Commit history showing file updates and meaningful commit messages
+•	Show screeshots of the acts.
+
+At least one commit from a non leader group member is expected.
+
+
+
+End of Documentation.
+
